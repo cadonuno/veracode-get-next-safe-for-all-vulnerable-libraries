@@ -1,6 +1,6 @@
 # veracode-get-next-safe-for-all-vulnerable-libraries
 
-A small plugin that converts Downloads the latest scan for an application/sandbox and saves the sca results (including a list of safe versions)
+A small plugin which downloads the latest scan for an application/sandbox and saves the SCA results (including a list of safe versions) to a CSV file
 
 ## Installation
 
